@@ -21,7 +21,7 @@ jobs:
 
   test:
     name: Test and lint
-    uses: open-sauced/open-sauced/.github/workflows/development.yml@main
+    uses: open-sauced/open-sauced/.github/workflows/development.yml@0c5bc301aa3dc821109f2a5f6bb821d880c2e805 # main as of 2026-10-21
 
   docker:
     name: Build container
