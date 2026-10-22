@@ -10,4 +10,4 @@ on:
 
 jobs:
   analyze:
-    uses: open-sauced/open-sauced/.github/workflows/codeql-analysis.yml@main
+    uses: open-sauced/open-sauced/.github/workflows/codeql-analysis.yml@0c5bc301aa3dc821109f2a5f6bb821d880c2e805 # main as of 2026-10-21
